@@ -1,0 +1,15 @@
+C:\Users\Aprendiz\Desktop\environment-classes-in-C-Sharp\EnvironmentClasses\bin\Debug\net9.0\EnvironmentClasses.exe
+C:\Users\Aprendiz\Desktop\environment-classes-in-C-Sharp\EnvironmentClasses\bin\Debug\net9.0\EnvironmentClasses.deps.json
+C:\Users\Aprendiz\Desktop\environment-classes-in-C-Sharp\EnvironmentClasses\bin\Debug\net9.0\EnvironmentClasses.runtimeconfig.json
+C:\Users\Aprendiz\Desktop\environment-classes-in-C-Sharp\EnvironmentClasses\bin\Debug\net9.0\EnvironmentClasses.dll
+C:\Users\Aprendiz\Desktop\environment-classes-in-C-Sharp\EnvironmentClasses\bin\Debug\net9.0\EnvironmentClasses.pdb
+C:\Users\Aprendiz\Desktop\environment-classes-in-C-Sharp\EnvironmentClasses\obj\Debug\net9.0\EnvironmentClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Desktop\environment-classes-in-C-Sharp\EnvironmentClasses\obj\Debug\net9.0\EnvironmentClasses.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Desktop\environment-classes-in-C-Sharp\EnvironmentClasses\obj\Debug\net9.0\EnvironmentClasses.AssemblyInfo.cs
+C:\Users\Aprendiz\Desktop\environment-classes-in-C-Sharp\EnvironmentClasses\obj\Debug\net9.0\EnvironmentClasses.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\environment-classes-in-C-Sharp\EnvironmentClasses\obj\Debug\net9.0\EnvironmentClasses.sourcelink.json
+C:\Users\Aprendiz\Desktop\environment-classes-in-C-Sharp\EnvironmentClasses\obj\Debug\net9.0\EnvironmentClasses.dll
+C:\Users\Aprendiz\Desktop\environment-classes-in-C-Sharp\EnvironmentClasses\obj\Debug\net9.0\refint\EnvironmentClasses.dll
+C:\Users\Aprendiz\Desktop\environment-classes-in-C-Sharp\EnvironmentClasses\obj\Debug\net9.0\EnvironmentClasses.pdb
+C:\Users\Aprendiz\Desktop\environment-classes-in-C-Sharp\EnvironmentClasses\obj\Debug\net9.0\EnvironmentClasses.genruntimeconfig.cache
+C:\Users\Aprendiz\Desktop\environment-classes-in-C-Sharp\EnvironmentClasses\obj\Debug\net9.0\ref\EnvironmentClasses.dll
