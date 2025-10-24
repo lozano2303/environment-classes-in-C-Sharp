@@ -4,8 +4,10 @@ class Program
 {
     static void Main()
     {
-        //instancia
+        //instancias
         Table table = new Table("Rojo");
         table.Still();
+        Chair chair = new Chair("Verde", "Metal y Acolchado");
+        chair.Still();
     }
 }
