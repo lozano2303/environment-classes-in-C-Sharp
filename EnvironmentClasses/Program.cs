@@ -1,4 +1,5 @@
 ﻿using System;
+using EnvironmentClasses.models;
 
 class Program
 {
@@ -7,6 +8,7 @@ class Program
         //instancias
         Table table = new Table("Rojo");
         table.Still();
+
         Chair chair = new Chair("Verde", "Metal y Acolchado");
         chair.Still();
     }
