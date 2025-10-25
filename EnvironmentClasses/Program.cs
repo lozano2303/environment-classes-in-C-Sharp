@@ -17,5 +17,8 @@ class Program
 
         Tv tv = new Tv("LG");
         tv.Turn();
+
+        AirConditioning air = new AirConditioning("LG");
+        air.Turn();
     }
 }
