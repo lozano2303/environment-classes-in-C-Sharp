@@ -20,5 +20,11 @@ class Program
 
         AirConditioning air = new AirConditioning("LG");
         air.Turn();
+
+        Mouse mouse = new Mouse("Negro");
+        mouse.Drag();
+
+        Keyboard key = new Keyboard("Negro");
+        key.Write();
     }
 }
