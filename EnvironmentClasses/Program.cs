@@ -51,5 +51,9 @@ class Program
         Instructor instructor = new Instructor(45, "alfonso");
         instructor.SayHello();
 
+        //instancia de el Switch
+        Switch switchh = new Switch("encender");
+        switchh.LightUpLamps();
+
     }
 }
