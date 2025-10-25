@@ -1,13 +1,13 @@
 namespace EnvironmentClasses.models
 {
-    public class Apprentice
+    public class Instructor
     {   
-        //atributos de clase aprendiz (Apprentice)
+        //atributos de clase aprendiz (Instructor)
         private int Age { set; get; }
         private string Name { set; get; }
 
         //constructor
-        public Apprentice(int age, string name)
+        public Instructor(int age, string name)
         {
             Age = age;
             Name = name;
@@ -16,7 +16,7 @@ namespace EnvironmentClasses.models
         //metodo
         public void SayHello()
         {
-            Console.WriteLine($"Hola, mi nombre es {Name} y mi edad es {Age}");
+            Console.WriteLine($"Hola, soy el instructor {Name} y mi edad es {Age}");
         }
 
     }

@@ -47,5 +47,9 @@ class Program
         Apprentice apprentice = new Apprentice(19, "Cristofer");
         apprentice.SayHello();
 
+        //instancia de Instructor
+        Instructor instructor = new Instructor(45, "alfonso");
+        instructor.SayHello();
+
     }
 }
