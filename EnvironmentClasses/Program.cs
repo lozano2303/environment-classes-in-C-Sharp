@@ -59,5 +59,9 @@ class Program
         Lamp lamp = new Lamp("Encendido");
         lamp.TurnOn();
 
+        //instancia de Locker
+        Locker locker = new Locker("Alto", "Hierro");
+        locker.Lock();
+
     }
 }
