@@ -32,5 +32,9 @@ class Program
 
         VideoCable video = new VideoCable(2);
         video.HowLongIs();
+
+        Apprentice apprentice = new Apprentice(19, "Cristofer");
+        apprentice.SayHello();
+
     }
 }
