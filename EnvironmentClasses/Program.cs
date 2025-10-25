@@ -52,8 +52,12 @@ class Program
         instructor.SayHello();
 
         //instancia de el Switch
-        Switch switchh = new Switch("encender");
+        Switch switchh = new Switch("Encender");
         switchh.LightUpLamps();
+
+        //instancia de Lamp
+        Lamp lamp = new Lamp("Encendido");
+        lamp.TurnOn();
 
     }
 }
