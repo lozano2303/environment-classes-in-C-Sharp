@@ -26,5 +26,8 @@ class Program
 
         Keyboard key = new Keyboard("Negro");
         key.Write();
+
+        TvStand stand = new TvStand("Hierro");
+        stand.Static();
     }
 }
