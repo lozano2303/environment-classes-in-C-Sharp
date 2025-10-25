@@ -2,7 +2,7 @@ namespace EnvironmentClasses.models
 {
     public class Table
     {
-        //atributo
+        //atributo de la clase Mesa (Table)
         private string Color { get; set; }
 
         //constructor

@@ -11,5 +11,8 @@ class Program
 
         Chair chair = new Chair("Verde", "Metal y Acolchado");
         chair.Still();
+
+        Laptop laptop = new Laptop("HP");
+        laptop.Turn();
     }
 }
