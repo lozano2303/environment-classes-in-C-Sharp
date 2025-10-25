@@ -29,5 +29,8 @@ class Program
 
         TvStand stand = new TvStand("Hierro");
         stand.Static();
+
+        VideoCable video = new VideoCable(2);
+        video.HowLongIs();
     }
 }
