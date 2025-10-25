@@ -14,5 +14,8 @@ class Program
 
         Laptop laptop = new Laptop("HP");
         laptop.Turn();
+
+        Tv tv = new Tv("LG");
+        tv.Turn();
     }
 }
