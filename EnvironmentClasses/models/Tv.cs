@@ -11,6 +11,7 @@ namespace EnvironmentClasses.models
         Brand = brand;
     }
 
+    //metodo
     public void Turn()
     {
         Console.WriteLine($"Encendiendo el tv marca {Brand}.");

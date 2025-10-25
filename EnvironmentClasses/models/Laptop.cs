@@ -11,6 +11,7 @@ public class Laptop
         Brand = brand;
     }
 
+    //metodo
     public void Turn()
     {
         Console.WriteLine($"Encendiendo laptop marca {Brand}.");
