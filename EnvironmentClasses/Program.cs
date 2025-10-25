@@ -63,5 +63,12 @@ class Program
         Locker locker = new Locker("Alto", "Hierro");
         locker.Lock();
 
+        //Instancia de Desk
+        Desk desk = new Desk("Blanco");
+        desk.Still();
+
+        //instancia de PowerCable
+        PowerCable power = new PowerCable(1);
+        power.HowLongIs();
     }
 }
