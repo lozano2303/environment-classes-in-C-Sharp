@@ -70,5 +70,21 @@ class Program
         //instancia de PowerCable
         PowerCable power = new PowerCable(1);
         power.HowLongIs();
+
+        ///instancia de Pencil
+        Pencil pencil = new Pencil("Faber-Castell", "Negro");
+        pencil.Draw();
+
+        //instancia de Phone
+        Phone phone = new Phone("HONOR");
+        phone.Call();
+
+        //instancia de LaptopCharger
+        LaptopCharger charger = new LaptopCharger("Dell", 65);
+        charger.Charge();
+
+        //instancia de PhoneCharger
+        PhoneCharger phoneCharger = new PhoneCharger("Samsung", 25);
+        phoneCharger.Charge();
     }
 }
